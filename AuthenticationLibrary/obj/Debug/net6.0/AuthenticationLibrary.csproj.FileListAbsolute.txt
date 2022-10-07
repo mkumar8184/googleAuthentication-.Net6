@@ -1,0 +1,12 @@
+C:\Users\LENOVO\source\repos\externalProfile\AuthenticationLibrary\bin\Debug\net6.0\AuthenticationLibrary.deps.json
+C:\Users\LENOVO\source\repos\externalProfile\AuthenticationLibrary\bin\Debug\net6.0\AuthenticationLibrary.dll
+C:\Users\LENOVO\source\repos\externalProfile\AuthenticationLibrary\bin\Debug\net6.0\AuthenticationLibrary.pdb
+C:\Users\LENOVO\source\repos\externalProfile\AuthenticationLibrary\obj\Debug\net6.0\AuthenticationLibrary.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\externalProfile\AuthenticationLibrary\obj\Debug\net6.0\AuthenticationLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\externalProfile\AuthenticationLibrary\obj\Debug\net6.0\AuthenticationLibrary.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\externalProfile\AuthenticationLibrary\obj\Debug\net6.0\AuthenticationLibrary.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\externalProfile\AuthenticationLibrary\obj\Debug\net6.0\AuthenticationLibrary.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\externalProfile\AuthenticationLibrary\obj\Debug\net6.0\AuthenticationLibrary.dll
+C:\Users\LENOVO\source\repos\externalProfile\AuthenticationLibrary\obj\Debug\net6.0\refint\AuthenticationLibrary.dll
+C:\Users\LENOVO\source\repos\externalProfile\AuthenticationLibrary\obj\Debug\net6.0\AuthenticationLibrary.pdb
+C:\Users\LENOVO\source\repos\externalProfile\AuthenticationLibrary\obj\Debug\net6.0\ref\AuthenticationLibrary.dll
