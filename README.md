@@ -2,7 +2,7 @@
 # implement google as identity provider in .Net 6.0
 # seperate class library to authenticate and get user profile in .net 6.0 
 # Steps to register project in google---
-open https://console.cloud.google.com/apis/dashboard---
+open https://console.cloud.google.com/apis/dashboard ---
 create project---
 ![image](https://user-images.githubusercontent.com/85626647/194460351-5cc15313-5bb4-4529-8b3e-a77ee9bc3e20.png)---
 enable api &   serivce and add **google+api and people api**---
