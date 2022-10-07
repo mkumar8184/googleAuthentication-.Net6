@@ -10,7 +10,7 @@ click oAuth consent and register your app---
 ![image](https://user-images.githubusercontent.com/85626647/194460668-a8b8e4bb-2175-4cb1-af17-0604922078b0.png)---
 click **credential-> new credential -->oAuth client** and enter below details and save---
 ![image](https://user-images.githubusercontent.com/85626647/194460951-4657537f-2c92-402e-8394-7a56dfda2651.png)---
-copy your **clientid** & **Client secret**
+---copy your **clientid** & **Client secret**
 
 
 
