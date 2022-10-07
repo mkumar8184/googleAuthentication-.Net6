@@ -1,5 +1,5 @@
-# googleAuthentication-.Net6
-## implement google as identity provider in .Net 6.0
+# Google Authentication in .Net6.0
+## implement google as identity provider in .Net 6.0 & get user details
 ## seperate class library to authenticate and get user profile in .net 6.0 
 ## Steps to register project in google  
 open https://console.cloud.google.com/apis/dashboard   
