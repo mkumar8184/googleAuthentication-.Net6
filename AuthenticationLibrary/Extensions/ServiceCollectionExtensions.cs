@@ -37,9 +37,7 @@ namespace AuthenticationLibrary.Extensions
           )
         {
             services.AddSingleton<IHttpContextAccessor, HttpContextAccessor>();
-            services.AddTransient<IUserProfileService,UserProfileService>();
-            services.AddHttpContextAccessor();
-
+            services.AddTransient<IUserProfileService,UserProfileService>();    
             return services;
         }
     }
